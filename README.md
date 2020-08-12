@@ -1,0 +1,2 @@
+# opencv-snippets
+OpenCV snippets
