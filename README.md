@@ -17,3 +17,5 @@ Random OpenCV code snippets which help while using opencv.
 07.py : Change the dimensions of the video frame.
 
 08.py : Adding datetime to the captured video.
+
+09.py : Show the coordinates on the image when the left mouse button is clicked on the image.
