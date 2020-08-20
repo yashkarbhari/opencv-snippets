@@ -6,9 +6,9 @@ Random OpenCV code snippets which help while using opencv.
 
 02.py : For video capture from your default PC camera.
 
-03.py : Video reading and saving using the default camera.
+03.py : 
 
-04.py : 
+04.py : Video reading and saving using the default camera.
 
 05.py : Inserting line, arrowedLine, rectangle, circle, putText in the image.
 
