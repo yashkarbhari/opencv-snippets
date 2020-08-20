@@ -8,6 +8,8 @@ Random OpenCV code snippets which help while using opencv.
 
 03.py : Video reading and saving using the default camera.
 
-04.py : Inserting line, arrowedLine, rectangle, circle, putText in the image.
+04.py : 
 
-05.py : making a image using numpy zeros
+05.py : Inserting line, arrowedLine, rectangle, circle, putText in the image.
+
+06.py : making a image using numpy zeros
