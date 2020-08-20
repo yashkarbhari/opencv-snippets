@@ -6,7 +6,7 @@ Random OpenCV code snippets which help while using opencv.
 
 02.py : For video capture from your default PC camera.
 
-03.py : 
+03.py : Changing BGR colour format to gray.
 
 04.py : Video reading and saving using the default camera.
 
