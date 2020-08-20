@@ -12,4 +12,6 @@ Random OpenCV code snippets which help while using opencv.
 
 05.py : Inserting line, arrowedLine, rectangle, circle, putText in the image.
 
-06.py : making a image using numpy zeros
+06.py : making a image using numpy zeros.
+
+07.py : Change the dimensions of the video frame.
