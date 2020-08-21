@@ -19,5 +19,5 @@ Random OpenCV code snippets which help while using opencv.
 08.py : Adding datetime to the captured video.
 
 09.py : Show the coordinates on the image when the left mouse button is clicked on the image.
-g
+
 10.py : When we right click on the image, we will get the colour of the image in the BGR format, and when we left click on the image we will get the coordinates of the image.
