@@ -21,3 +21,5 @@ Random OpenCV code snippets which help while using opencv.
 09.py : Show the coordinates on the image when the left mouse button is clicked on the image.
 
 10.py : When we right click on the image, we will get the colour of the image in the BGR format, and when we left click on the image we will get the coordinates of the image.
+
+11.py : This will make a circle at a point you willleft click and then join the 1st and the 2nd points with a line and so on.
