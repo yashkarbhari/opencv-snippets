@@ -16,7 +16,7 @@ Random OpenCV code snippets which help while using opencv.
 
 07.py : Change the dimensions of the video frame.
 
-08.py : Adding datetime to the captured video.
+08.py : __Adding datetime__ to the captured video.
 
 09.py : Show the coordinates on the image when the left mouse button is clicked on the image.
 
@@ -24,4 +24,14 @@ Random OpenCV code snippets which help while using opencv.
 
 11.py : This will make a circle at a point you will left click and then join the 1st and the 2nd points with a line and so on.
 
-12.py : Adding two images from cv2.add()
+12.py : Adding two images from __cv2.add()__.
+
+13.py : Using different types of __bitwise operators__.
+
+14.py : __Createing a Trackebar__ to change the colour of the image using B, G, R channel trackbars.
+
+15.py : Creating a trackbar with mask on the video captured and masks the video with the described HSV given in the trackbar.
+
+16.py : __Simple thresholding__(a segmentation technique) on Images using OpenCV.
+
+
