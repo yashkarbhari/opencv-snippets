@@ -28,7 +28,7 @@ Random OpenCV code snippets which help while using opencv.
 
 13.py : Using different types of __bitwise operators__.
 
-14.py : __Createing a Trackebar__ to change the colour of the image using B, G, R channel trackbars.
+14.py : __Creating a Trackebar__ to change the colour of the image using B, G, R channel trackbars.
 
 15.py : Creating a trackbar with mask on the video captured and masks the video with the described HSV given in the trackbar.
 
