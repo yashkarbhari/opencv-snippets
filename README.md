@@ -34,4 +34,17 @@ Random OpenCV code snippets which help while using opencv.
 
 16.py : __Simple thresholding__(a segmentation technique) on Images using OpenCV.
 
+17.py : __Adaptive thresholding__(threshold is calculated for local region and not global), so there will be different regions with different thresholding.
+
+
+
+
+
+
+
+
+
+
+
+
 
