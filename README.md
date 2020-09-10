@@ -36,6 +36,8 @@ Random OpenCV code snippets which help while using opencv.
 
 17.py : __Adaptive thresholding__(threshold is calculated for local region and not global), so there will be different regions with different thresholding.
 
+18.py : __Morpholgical Transformations__(morpholiogical transformations are some simple operations based on the image shape).
+
 
 
 
