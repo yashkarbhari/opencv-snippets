@@ -38,7 +38,7 @@ Random OpenCV code snippets which help while using opencv.
 
 18.py : __Morpholgical Transformations__(morpholiogical transformations are some simple operations based on the image shape).
 
-
+19.py : Smoothing(or Blurring), it is used to remove noise in the images.
 
 
 
