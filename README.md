@@ -22,7 +22,7 @@ Random OpenCV code snippets which help while using opencv.
 
 10.py : When we right click on the image, we will get the colour of the image in the BGR format, and when we left click on the image we will get the coordinates of the image.
 
-11.py : This will make a circle at a point you will left click and then join the 1st and the 2nd points with a line and so on.
+11.py : This will make a circle at a point you will left click on and then join the 1st click and the 2nd clicked points with a line and continues the process until the termination.
 
 12.py : Adding two images from __cv2.add()__.
 
