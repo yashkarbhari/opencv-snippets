@@ -14,7 +14,7 @@ Random OpenCV code snippets which help while using opencv.
 
 06.py : Making a image using numpy zeros.
 
-07.py : Change the dimensions of the video frame.
+07.py : Changing the dimensions of the video frame.
 
 08.py : __Adding datetime__ to the captured video.
 
