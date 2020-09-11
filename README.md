@@ -40,7 +40,7 @@ Random OpenCV code snippets which help while using opencv.
 
 19.py : Smoothing(or Blurring), it is used to remove noise in the images.
 
-
+20.py : __Image Gradient__(directional change in the intensity or color in an image.) Image Gradient is a fundamental property in image processing, we use image gradient to find edges inside image.
 
 
 
