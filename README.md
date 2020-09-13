@@ -46,7 +46,7 @@ Random OpenCV code snippets which help while using opencv.
 
 22.py : Image Pyramids: We create images with different resolutions, by bluring(or smoothing) and subsampling.
 
-
+23.py : __Image bending__ using Image pyramid techniques(Gaussian and Laplacian Pyramids).
 
 
 
