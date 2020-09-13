@@ -48,6 +48,6 @@ Random OpenCV code snippets which help while using opencv.
 
 23.py : __Image bending__ using Image pyramid techniques(Gaussian and Laplacian Pyramids).
 
-
+24.py : Finding and __Drawing Contours__.
 
 
