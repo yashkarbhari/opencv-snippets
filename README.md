@@ -42,8 +42,7 @@ Random OpenCV code snippets which help while using opencv.
 
 20.py : __Image Gradient__(directional change in the intensity or color in an image.) Image Gradient is a fundamental property in image processing, we use image gradient to find edges inside image.
 
-
-
+21.py : __Canny Edge Detector__: Is an edge detector algorithm that uses a multi-stage algorithm to detect a wide range of edges in images.
 
 
 
