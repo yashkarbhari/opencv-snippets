@@ -44,6 +44,8 @@ Random OpenCV code snippets which help while using opencv.
 
 21.py : __Canny Edge Detector__: Is an edge detector algorithm that uses a multi-stage algorithm to detect a wide range of edges in images.
 
+22.py : Image Pyramids: We create images with different resolutions, by bluring(or smoothing) and subsampling.
+
 
 
 
