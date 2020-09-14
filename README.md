@@ -50,4 +50,8 @@ Random OpenCV code snippets which help while using opencv.
 
 24.py : Finding and __Drawing Contours__.
 
+25.py : ___Motion Detection__.
+
+26.py : Detecting Geometric shapes.
+
 
