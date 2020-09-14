@@ -54,4 +54,8 @@ Random OpenCV code snippets which help while using opencv.
 
 26.py : Detecting Geometric shapes.
 
+27.py : Histograms in OpenCV
+
+28.py : __Template Matching__(It is a method of finding and searching a template image in a larger image).
+
 
