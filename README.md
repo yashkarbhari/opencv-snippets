@@ -58,4 +58,4 @@ Random OpenCV code snippets which help while using opencv.
 
 28.py : __Template Matching__(It is a method of finding and searching a template image in a larger image).
 
-
+29.py : __The Hough Transform__: It is a popular technique to detect any shape, if you can represent that shape in a mathematical form. It can detect the shape even if it is broken or distorted a liitle bit.
