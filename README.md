@@ -60,4 +60,6 @@ Random OpenCV code snippets which help while using opencv.
 
 29.py : __The Hough Transform__: It is a popular technique to detect any shape, if you can represent that shape in a mathematical form. It can detect the shape even if it is broken or distorted a liitle bit.
 
-30.py : __Lane Detection__ with OpenCV
+30.py : __Lane Detection__ with OpenCV.
+
+31.py : Lane Detection in videos with OpenCV.
