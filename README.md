@@ -66,4 +66,6 @@ Random OpenCV code snippets which help while using opencv.
 
 32.py : Drawing a circle using Hough Circle.
 
-33.py : 
+33.py : Haar Cascade Face Detection(on images).
+
+34.py : 
