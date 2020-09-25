@@ -70,3 +70,4 @@ Random OpenCV code snippets which help while using opencv.
 
 34.py : Haar Cascade Face Detection(on videos).
 
+35.py : Haar Cascade Face and Eye Detection.
