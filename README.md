@@ -72,6 +72,6 @@ Random OpenCV code snippets which help while using opencv.
 
 35.py : Haar Cascade Face and Eye Detection.
 
-36.py : Detecting Corners with Harris Corner Detection.
+36.py : Detecting Corners with __Harris Corner Detection__.
 
-37.py : 
+37.py : Detecting Corners with __Shi Tomasi Method__.
