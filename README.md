@@ -75,3 +75,5 @@ Random OpenCV code snippets which help while using opencv.
 36.py : Detecting Corners with __Harris Corner Detection__.
 
 37.py : Detecting Corners with __Shi Tomasi Method__.
+
+38.py : 
