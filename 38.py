@@ -1,3 +1,4 @@
+# with createBackgroundSubtractorMOG()
 import cv2
 import numpy as np
 
@@ -20,3 +21,6 @@ while True:
         
 cap.release()
 cv2.destroyAllWindows()
+-------------------------------------------------------
+# with BackgroundSubtractorKNN()
+
