@@ -77,3 +77,6 @@ Random OpenCV code snippets which help while using opencv.
 37.py : Detecting Corners with __Shi Tomasi Method__.
 
 38.py : Background Subtraction Method.
+
+39.py : __Mean Shift__: Object Tracking Method.
+
