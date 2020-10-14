@@ -80,4 +80,4 @@ Random OpenCV code snippets which help while using opencv.
 
 39.py : __Mean Shift__: Object Tracking Method.
 
-40.py : Object Tracking __Camshift Method__
+40.py : Object Tracking __Camshift Method__.
