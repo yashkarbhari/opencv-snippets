@@ -1,4 +1,4 @@
-# opencv-snippets
+# opencv-snippet
 
 #### This repo contains OpenCV code snippets whic hcan be helpful to further develop complex and also use these snippets for work in OpenCV.
 
