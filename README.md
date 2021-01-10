@@ -1,6 +1,6 @@
 # opencv-snippets
 
-#### This repo contains OpenCV code snippets whic hcan be helpful to further develop complex and also use these snippets for work in OpenCV
+#### This repo contains OpenCV code snippets which can be helpful to further develop complex and also use these snippets for work in OpenCV
 
 01.py : Read and write the image and use the 'esc' key to destroy all the windows and 's' key to save the image and make a copy of that image in the current folder.
 
